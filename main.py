@@ -15,5 +15,7 @@ if __name__ == '__main__':
 
     print('dev1 branch')
 
-    print('new dev1 branch')
+    print('new dev2 branch')
+
+    print('new dev2 branch')
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
